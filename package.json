@@ -1,0 +1,14 @@
+{
+  "name": "crypto-fetch",
+  "version": "1.0.0",
+  "description": "A simple program to fetch data from different APIs and store them in an excel file",
+  "main": "main.js",
+  "author": "Michael Bukachi",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "exceljs": "^1.1.1",
+    "moment": "^2.22.0"
+  }
+}
